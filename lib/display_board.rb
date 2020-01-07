@@ -6,3 +6,5 @@ def display_board
     puts " "*3
   end
 end
+
+display_board
