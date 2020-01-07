@@ -4,6 +4,5 @@ def display_board
   var row 1 = 
     
     puts " "*3
-  
-  
+  end
 end
